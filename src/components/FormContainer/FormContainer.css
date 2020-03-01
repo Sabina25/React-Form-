@@ -1,0 +1,7 @@
+form {
+    border: 1px solid gray; 
+    width: 30%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

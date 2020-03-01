@@ -1,0 +1,45 @@
+form {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.preferences {
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+button {
+    width: 30%;
+    margin-top: 10px;
+}
+
+
+.input-text {
+    padding: 2px;
+    width: 90%;
+    margin-top: 5px;
+    size: 20px;
+}
+
+.gender {
+    margin-top: 10px;
+}
+
+.country {
+    margin-top: 5px;
+    width: 80%;
+}
+
+
+.form-inform {
+    width: 30%;
+    margin: 0 auto;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    
+}
